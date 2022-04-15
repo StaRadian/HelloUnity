@@ -1,0 +1,11 @@
+/.vs
+/.vscode
+/.vsconfig
+/Assembly-CSharp.csproj
+/DocCodeExamples.csproj
+/HelloUnity.sln
+/Library
+/Logs
+/obj
+/Packages
+/Temp
